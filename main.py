@@ -33,7 +33,7 @@ st.markdown("""
 # ---------------- HEADER ----------------
 st.title("🔥 Gemini 3 Causal Analyzer")
 st.markdown(
-    "<span class='small-muted'>Hackathon Edition • Root causes, assumptions & counterfactuals</span>",
+    "<span class='small-muted'>Abdul Rahman Azam• Analyze root causes , assumptions & counterfactuals</span>",
     unsafe_allow_html=True
 )
 st.divider()
@@ -154,4 +154,4 @@ Scenario:
 
 # ---------------- FOOTER ----------------
 st.divider()
-st.caption("Powered by Gemini 3 • Global Hackathon Submission")
+st.caption("Built by Abdul Rahman Azam • Powered by Gemini 3")
